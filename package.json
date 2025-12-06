@@ -1,0 +1,9 @@
+{
+  "name": "gemini-lite-api-proxy",
+  "version": "1.0.0",
+  "description": "Proxy for Gemini API",
+  "main": "api/ask.js",
+  "dependencies": {
+    "@google/genai": "^0.1.0"
+  }
+}
